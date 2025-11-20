@@ -62,8 +62,8 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 ### Checklist (one per file):
 
 - [x] File 1: `DLP.MD` → `analysis/files/DLP_ANALYSIS.md` ✅
-- [ ] File 2: `QUANTUM_PROOF_HASHES_ANALYSIS.md` → `analysis/files/QUANTUM_PROOF_HASHES_ANALYSIS.md`
-- [ ] File 3: `STAGANOGRAPHICALLE_EMBEDDED_VERSIONING.MD` → `analysis/files/STEG_VERSIONING_ANALYSIS.md`
+- [ ] File 2: `QUANTUM_PROOF_HASHES.md` → `analysis/files/QUANTUM_PROOF_HASHES_ANALYSIS.md`
+- [x] File 3: `STAGANOGRAPHICALLE_EMBEDDED_VERSIONING.MD` → `analysis/files/STEG_VERSIONING_ANALYSIS.md` ✅
 
 **Strategy**: Do 1-3 files per session, commit after each, resume in next session
 
