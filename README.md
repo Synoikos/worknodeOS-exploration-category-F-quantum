@@ -1,4 +1,4 @@
-# Category F: Quantum CATNAME Crypto
+# Category F: Quantum & Crypto
 ## Wave 1 Analysis - DISTRIBUTED_SYSTEMS Exploration Pipeline
 
 **Repository**: Part of 8-category parallel analysis
